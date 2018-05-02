@@ -1,4 +1,4 @@
-THis is a fork of Uropian.io it was created with the intent to be used as a template for the front end of a STEEM blockchain based news website called Habari.io. This website will create a community that is similar to Utopian.io but for news content and not technichal content. Currently this version is just the fork of the utopian front end which our team is studying so we can begin designing the interface. Please feel free to reach out and help us with development! 
+This is a fork of Utopian.io it was created with the intent to be used as a template for the front end of a STEEM blockchain based news website called Habari.io. This website will create a community that is similar to Utopian.io but for news content and not technichal content. Currently this version is just the fork of the utopian front end which our team is studying so we can begin designing the interface. Please feel free to reach out and help us with development! 
   
 ## Contributing to this Project
 Get in touch on Discord: https://discord.gg/2B4sWyk
