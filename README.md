@@ -1,12 +1,7 @@
-[Utopian.io](https://utopian.io) wants to reward Open Source contributors for their hard work. 
-Forked from https://github.com/busyorg/busy, Utopian uses the [STEEM Blockchain](https://steem.io) to reward contributors in cryptocurrency.
-
-See the website in action [here:](https://utopian.io)
-
-<center><img src="https://steemitimages.com/DQmYgMbYHNtiNmA6TbSL34tNwaMvxsQu2o5zrDvnbDks8bY/image.png"/></center>
+THis is a fork of Uropian.io it was created with the intent to be used as a template for the front end of a STEEM blockchain based news website called Habari.io. This website will create a community that is similar to Utopian.io but for news content and not technichal content. Currently this version is just the fork of the utopian front end which our team is studying so we can begin designing the interface. Please feel free to reach out and help us with development! 
   
 ## Contributing to this Project
-Get in touch on Discord: https://discord.gg/Pc8HG9x
+Get in touch on Discord: https://discord.gg/2B4sWyk
 
 ### Clone and Install
 git clone https://github.com/utopian-io/utopian.io utopian.io
